@@ -21,7 +21,7 @@ You can view the deployed version of the frontend
 
 ## React Component Hierarchy 
 
-![React Hierarchy](src/jobly.png?raw=true "Jobly Component Hierarchy")
+![React Hierarchy](jobly.png)
 
 ## Installation and Setup Instructions
 
@@ -60,7 +60,7 @@ You can view the deployed version of the frontend
 
 ## Authors
 
-My partner for both the frontend and backend was @DavidLee. 
+My partner for both the frontend and backend was [David Lee](https://github.com/d-lee84). 
 
 ## Acknowledgements
 
